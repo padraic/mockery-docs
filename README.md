@@ -1,4 +1,5 @@
-mockery-docs
-============
+mockery-docs [DEPRECATED]
+=========================
 
-Document for the PHP Mockery framework on readthedocs.org
+Please forward any changes to the main [mockery
+repo's](https://github.com/padraic/mockery) docs directory.
